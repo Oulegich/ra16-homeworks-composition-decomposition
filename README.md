@@ -1,9 +1,9 @@
 Декомпозиция
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/qs889acn3i5vy6xm?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-composition-decomposition)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-composition-decomposition/)
 
 Вы работаете в стартапе, который решил тягаться с самим Яндексом в части предоставления контента. Это, конечно же, шутка, но задача нешуточная.
 
